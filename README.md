@@ -93,7 +93,7 @@ Each row in the CSV contains the following columns:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zameen-web-scraper.git
+git clone https://github.com/zaifi320/zameen-web-scraper.git
 cd zameen-web-scraper
 ````
 
@@ -169,6 +169,6 @@ Your feedback is appreciated! 😊
 
 ---
 
-**Made with ❤️ by \[Your Name] – For Real Estate Data Analysis in Pakistan**
+**Made with ❤️ by \Huzaifa Bin Saeed – For Real Estate Data Analysis in Pakistan**
 
 ```
