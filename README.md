@@ -93,5 +93,11 @@ Each row in the CSV contains the following columns:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zameen-web-scraper.git
+git clone https://github.com/zaifi320/zameen-web-scraper.git
 cd zameen-web-scraper
+
+
+### 2. Install Required Libraries
+Make sure you have Python installed (version 3.x). Then install the necessary libraries:
+
+pip install selenium beautifulsoup4
