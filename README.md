@@ -1,3 +1,5 @@
+![image alt](https://github.com/zaifi320/zameen-web-scraper/blob/5eae1dd3b65172c2ce1af3378c8fc4e3b96463a6/Web-Scraping%20Workflow.png)
+
 # 🏡 Zameen Web Scraper
 
 This is a **Python-based web scraping tool** that collects real estate data from [Zameen.com](https://www.zameen.com), the most popular property website in Pakistan.  
